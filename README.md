@@ -7,7 +7,7 @@ __***--OBRA CIVIL--***__
 3.- Rampas peatonales de evacuacion.
 4.- Escaleras de acceso a las naves.
 5.- Mezzanine dos niveles.
-6.- Oficinas de ingenieria, calidad y produccion.
+6.- Oficinas de ingenieria, calidad (laboratiorio) y produccion.
 7.- Oficina de embarque.
 8.- Pecera (Panoptica).
 9.- Puente de acceso a la pecera.
@@ -15,7 +15,6 @@ __***--OBRA CIVIL--***__
 11.- Cuarto de residuos peligrosos.
 12.- Drenaje sanitario.
 13.- Cuarto de maquinas.
-¿*Laboratorio*?
 
 __***--MEZZANINE--***__
 
